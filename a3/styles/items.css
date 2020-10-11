@@ -1,0 +1,45 @@
+body, h3{
+    text-align: center;
+    font-family: "Raleway";
+}
+.body {
+    padding: 50px;
+}
+.app {
+    position: absolute;
+    border-radius: 5px;
+    border: 1px solid #000;
+    width: 400px;
+    left: 35%;
+    padding: 30px;
+}
+#top {
+    display: inline;
+}
+
+/* Items */
+#store {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6c5;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block;
+    width: 50%;
+}
+#price {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6c5;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block;
+    width: 30%;
+    float: right;
+}
+
+

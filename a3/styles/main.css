@@ -1,0 +1,41 @@
+body, h3{
+    text-align: center;
+    font-family: "Raleway";
+}
+.body {
+    padding: 50px;
+}
+.app {
+    position: absolute;
+    border-radius: 5px;
+    border: 1px solid #000;
+    width: 400px;
+    left: 35%;
+    padding: 30px;
+}
+#top {
+    display: inline;
+}
+/* Carousel */
+* {
+  box-sizing:border-box
+}
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+.images {
+  display: none;
+}
+/* Input */
+.select, #store, #remove, #compare, #add {
+  padding: 10px;
+  margin-top: -1px;
+}
+#compare {
+  width: 50%;
+}
+#add {
+  width: 30%;
+}

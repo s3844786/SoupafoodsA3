@@ -1,0 +1,44 @@
+body, h3{
+    text-align: center;
+    font-family: "Raleway";
+}
+.body {
+    padding: 50px;
+}
+.app {
+    position: absolute;
+    border-radius: 5px;
+    border: 1px solid #000;
+    width: 400px;
+    left: 35%;
+    padding: 30px;
+}
+#top {
+    display: inline;
+}
+
+/* Search */
+#input {
+    width: 65%;
+    padding: 20px;
+    font-size: 100%;
+}
+#list {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+}
+#list li {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6c5;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block;
+}
+#list li:hover:not(.header) {
+    background-color: #eee;
+}
+
