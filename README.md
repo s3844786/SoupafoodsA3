@@ -48,3 +48,47 @@ going to be added to the original project.</p>
 </p>
 <p>The most important aspect of organising this project is to find achievable MVFs. In the beginning of the project we spent a long time describing the MVFs which made those MVFs too fancy and impossible for us to achieve the ultimate goal -- working prototype. If we could start again, we will definitely make our MVFs much easier and can be achieved with our current skills and ability.</p>
 <p>The advice I would give to other groups is to improve their current programing and design skills as this project can not be easily achieved.</p>
+
+Shopping list
+
+Introduction:
+This function can help users to save some inputs like list name, item name, item number and item price. Users need to type data in the following orders: Name of the shopping list, Item, Number, Price. For example: Testlist,apple,12,1.99.
+
+Additionally, users can also input their favorite fruits, vegetables, food and drinks. Firstly users need to type the number of their favorites and then they just type the item name.
+
+Shopping list (Demo):
+
+This is the main interface when users click the shopping list function.
+<img src="coding1.PNG" widht="600" height="540">
+
+The following picture  tells users how to make their own shopping list. They firstly type data in the input bar and then click “Determine”, then the data will be saved. 
+<img src="coding2.PNG" widht="600" height="540">
+<img src="coding3.PNG" widht="600" height="540">
+
+Users can click the Remove button to delete selected data.
+<img src="coding4.PNG" widht="600" height="540">
+<img src="coding5.PNG" widht="600" height="540">
+
+Besides that Edit button can help users edit the selected data, and users need to re-input all the data again.
+<img src="coding6.PNG" widht="600" height="540">
+<img src="coding7.PNG" widht="600" height="540">
+<img src="coding8.PNG" widht="600" height="540">
+<img src="coding9.PNG" widht="600" height="540">
+<img src="coding10.PNG" widht="600" height="540">
+
+These four buttons can help users to input their favorites.
+<img src="coding11.PNG" widht="600" height="540">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
